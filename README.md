@@ -11,6 +11,3 @@
   <img align="center" alt="Csharp-icon" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Unity-icon" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </div>
-<div>
-	<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
